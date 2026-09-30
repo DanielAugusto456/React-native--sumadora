@@ -9,7 +9,7 @@ import {
 import { WebView } from 'react-native-webview';
 import { estilosComunes } from '../theme';
 
-const YOUTUBE_VIDEO_ID = 'RooSjBW6rz4';
+const YOUTUBE_VIDEO_ID = 'fAf_7JWkXCs';
 
 export default function ExperienciaScreen() {
   const videoId = YOUTUBE_VIDEO_ID.trim();
